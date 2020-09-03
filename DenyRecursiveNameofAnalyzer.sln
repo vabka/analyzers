@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenyRecursiveNameofAnalyzer", "DenyRecursiveNameofAnalyzer\DenyRecursiveNameofAnalyzer.csproj", "{88B4F2A6-E69D-420D-B77E-E4F1FA700BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveNameofAnalyzer.Tests", "RecursiveNameofAnalyzer.Tests\RecursiveNameofAnalyzer.Tests.csproj", "{61F6653F-A380-4234-8328-AE2477329940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88B4F2A6-E69D-420D-B77E-E4F1FA700BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B4F2A6-E69D-420D-B77E-E4F1FA700BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B4F2A6-E69D-420D-B77E-E4F1FA700BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B4F2A6-E69D-420D-B77E-E4F1FA700BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F6653F-A380-4234-8328-AE2477329940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F6653F-A380-4234-8328-AE2477329940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F6653F-A380-4234-8328-AE2477329940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F6653F-A380-4234-8328-AE2477329940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
