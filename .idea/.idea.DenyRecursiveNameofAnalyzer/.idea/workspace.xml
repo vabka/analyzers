@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68a7477b-2141-415c-aa32-ff90c0cf58f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/DenyRecursiveNameofAnalyzer.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/DiagnosticCategories.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/DiagnosticIds.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/RecursiveNameofAnalyzer.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9DE9BEB-D52C-40A3-997E-39621DE482D4/169/SyntaxToken.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9DE9BEB-D52C-40A3-997E-39621DE482D4/15C/SeparatedSyntaxList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C8CD8A9C-2C9F-4A37-9C50-01D373AE4D2A/1BE/Syntax.xml.Syntax.Generated.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9DE9BEB-D52C-40A3-997E-39621DE482D4/16F/SyntaxTriviaList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6518D0E6-0CA8-4F6B-915C-07341A031A32/A/ImmutableArray_1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9DE9BEB-D52C-40A3-997E-39621DE482D4/C6/DiagnosticDescriptor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9DE9BEB-D52C-40A3-997E-39621DE482D4/1D9/DiagnosticAnalysisContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B9DE9BEB-D52C-40A3-997E-39621DE482D4/159/GreenNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/C8CD8A9C-2C9F-4A37-9C50-01D373AE4D2A/1AF/CSharpSyntaxNode.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/Class1.cs" />
+        <option value="$PROJECT_DIR$/RecursiveNameofAnalyzer.Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/DenyRecursiveNameofAnalyzer.csproj" />
+        <option value="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/NameofAnalyzers.cs" />
+        <option value="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/DiagnosticIds.cs" />
+        <option value="$PROJECT_DIR$/DenyRecursiveNameofAnalyzer/RecursiveNameofAnalyzer.cs" />
+        <option value="$PROJECT_DIR$/RecursiveNameofAnalyzer.Tests/RecursiveNameofAnalyzer.Tests.csproj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gyDLYXbYaCh5rzQyK0rMUrwyOZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68a7477b-2141-415c-aa32-ff90c0cf58f7" name="Default Changelist" comment="" />
+      <created>1599077882864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599077882864</updated>
+      <workItem from="1599077903731" duration="11299000" />
+      <workItem from="1599143174588" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="257" key="Rider.ProjectTemplateDialog.Size" timestamp="1599080912604">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599080912604" />
+    <state x="729" y="226" key="RiderGenerateDialog" timestamp="1599079216476">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="729" y="226" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599079216476" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1599092038508">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599092038508" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599143234474">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599143234474" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1599090437047">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599090437047" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1599080003132">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599080003132" />
+  </component>
+</project>
